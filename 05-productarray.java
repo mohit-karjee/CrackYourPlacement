@@ -1,6 +1,6 @@
 package CrackYourPlacement;
 
-class Solution {
+class productarray {
     public int[] productExceptSelf(int[] nums) {
        
         int n=nums.length;

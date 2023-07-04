@@ -1,6 +1,6 @@
 package CrackYourPlacement;
 
-class Solution {
+class minRotated {
     public int findMin(int[] nums) {
         return findMinRecursive(nums,0,nums.length-1);
     }

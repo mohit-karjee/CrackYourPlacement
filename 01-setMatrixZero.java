@@ -1,6 +1,6 @@
 package CrackYourPlacement;
 
-class Solution {
+class setMatrixZero {
     public void setZeroes(int[][] matrix) {
           boolean fr = false,fc = false;
     for(int i = 0; i < matrix.length; i++) {
@@ -40,7 +40,7 @@ class Solution {
         };
 
         // Create an instance of the Solution class
-        Solution solution = new Solution();
+        setMatrixZero solution = new setMatrixZero();
 
         // Call the setZeroes method to modify the matrix
         solution.setZeroes(matrix);

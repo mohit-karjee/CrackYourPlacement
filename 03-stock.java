@@ -1,6 +1,6 @@
 package CrackYourPlacement;
 
-class Solution {
+class stock {
     public int maxProfit(int[] prices) {
         int minPrice=prices[0];
         int maxProfit=0;

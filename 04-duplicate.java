@@ -2,7 +2,7 @@ package CrackYourPlacement;
 
 import java.util.HashSet;
 
-class Solution {
+class duplicate {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> dup = new HashSet<>();
         for(int num : nums) {    

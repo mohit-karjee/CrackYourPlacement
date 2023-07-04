@@ -1,6 +1,6 @@
 package CrackYourPlacement;
 
-class Solution {
+class maximumProductSub {
     public int maxProduct(int[] nums) {
        int maxSoFar = nums[0];
         int maxEndHere = nums[0];

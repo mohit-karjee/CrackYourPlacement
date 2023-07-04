@@ -1,6 +1,6 @@
 package CrackYourPlacement;
 
-class Solution {
+class singleNoii {
     public int singleNumber(int[] nums) {
         int ones = 0;
         int twos = 0;
